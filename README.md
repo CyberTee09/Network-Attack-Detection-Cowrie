@@ -117,12 +117,17 @@ These mappings represent activity performed within the controlled lab environmen
 
 ## Evidence
 
-The repository contains:
+Evidence
 
-* Assignment report
-* Lab evidence screenshots
-* Wireshark packet capture
-* Supporting documentation
+The following files provide supporting evidence for this project:
+
+Assignment Report: Full documentation of the lab setup, methodology, analysis, and findings.
+Wireshark Packet Capture: The captured network traffic used to analyze the SSH connection.
+Lab Evidence Screenshots: Visual evidence of the lab configuration, testing, and results.
+Files
+View Assignment Report
+View Wireshark Packet Capture
+View Lab Evidence
 
 ## Security Considerations
 
