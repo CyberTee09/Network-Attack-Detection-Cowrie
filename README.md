@@ -117,17 +117,18 @@ These mappings represent activity performed within the controlled lab environmen
 
 ## Evidence
 
-Evidence
-
 The following files provide supporting evidence for this project:
 
-Assignment Report: Full documentation of the lab setup, methodology, analysis, and findings.
-Wireshark Packet Capture: The captured network traffic used to analyze the SSH connection.
-Lab Evidence Screenshots: Visual evidence of the lab configuration, testing, and results.
-Files
-View Assignment Report
-View Wireshark Packet Capture
-View Lab Evidence
+* **Assignment Report:** Full documentation of the lab setup, methodology, analysis, and findings.
+* **Wireshark Packet Capture:** The captured network traffic used to analyze the SSH connection.
+* **Lab Evidence Screenshots:** Visual evidence of the lab configuration, testing, and results.
+
+### Files
+
+* [View Assignment Report](./Assignment1_Network_Attack_Detection_Report_Akinrelere_Oluwatobi.pdf)
+* [View Wireshark Packet Capture](./cowrie-ssh-traffic.pcap)
+* [View Lab Evidence](./evidence/)
+
 
 ## Security Considerations
 
